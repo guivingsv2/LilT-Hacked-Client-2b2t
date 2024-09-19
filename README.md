@@ -6,8 +6,7 @@
 
 **Due i want to keep the code safe, this client src is NOT PUBLIC, anyways you are invited to
 deep scan it on any JAR scanner or antivirus**
-https://isthisarat.com/
-https://www.virustotal.com/gui/home/upload
+https://isthisarat.com/    OR     https://www.virustotal.com/gui/home/upload
 
 **MODULES WORKING (I KEEP UPDATING UNTIL I SAY):**
 
